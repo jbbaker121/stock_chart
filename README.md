@@ -1,7 +1,7 @@
 # stock_chart
 
 # Process
-User inputs stock symbol for company
+* User inputs stock symbol for company
 The stock data gets downloaded from Yahoo Finance
 SMA for 10 and 30 day intervals and EMA for 20 day intervals are calculated
 SMA is simple moving average, which is the average closing price of a particular stock for n days (in this case 10 and 30 days)
